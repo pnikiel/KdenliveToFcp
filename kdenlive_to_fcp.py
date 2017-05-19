@@ -7,7 +7,7 @@ check_kdenlive is a description
 
 It defines classes_and_methods
 
-@author:     user_name
+@author:     Piotr Nikiel (based on kdenparse)
 
 @copyright:  2014 organization_name. All rights reserved.
 
